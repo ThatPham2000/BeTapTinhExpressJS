@@ -1,0 +1,40 @@
+.container .row .col {
+    font-weight: 700;
+    font-size: 36pt;
+}
+.container {
+    padding: 1%;
+}
+
+.row {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.col-5{
+    color: red;
+    font-weight: 500;
+}
+
+body {
+    background-color:#3b6acf10;
+}
+
+.col {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#btnTinh {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+.col-2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
